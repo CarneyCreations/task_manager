@@ -425,7 +425,7 @@ def percentage_calculator(variant, total_of_tasks):
 
 
 def generate_reports():
-    """ Displays and creates the "task_overview", totals and "user_overview" reports."""
+    """ Creates the "task_overview" and "user_overview" reports."""
     stored_tasks = read_external_task_file()
 
     # Data for the task total and user total report.
@@ -547,7 +547,7 @@ while True:
     password = input("            Enter your password:    ")
 
     if username in login_dictionary and login_dictionary.get(username) == password:
-        print(f"\n{green}{bold} \t Login successful. Welcome back {username}.{end}")
+        print(f"\n{green}{bold} \t\t Login successful. Welcome back {username}.{end}")
         break
 
     print(f"{red}{bold} \t I'm sorry, the password is incorrect. Please try again.{end}\n")
