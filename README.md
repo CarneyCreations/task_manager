@@ -31,5 +31,31 @@ This repository contains a task and user management program, which is accompanie
   <img alt="Displays the programs login page and the administrators login details with the main menu beneath it." src="https://github.com/CarneyCreations/task_manager/blob/master/task_manager_login.png">
 </picture>
 
+# **Features**
+**User login page** 
+-	Username and password checks.
+
+**Generate reports**
+-	Updates user_overview.txt and task_overview.txt with new users and tasks, which were reassigned/edited/completed or created.
+-	Admin access only.
+
+**Statistics**
+-	Displays up-to-date user and task reports in a table format. These include overdue task percentages and number of tasks assigned to each user.
+-	Admin access only.
+
+ **Register a new user**
+-	Add a new staff member to the system.
+-	Admin access only.
+
+**Assign a task**
+-	Create a new task and assign it to a user.
+
+**View all tasks**
+-	Displays all tasks assigned to each user.
+
+**View my tasks**
+-	Displays tasks specifically for the user logged in.
+-	Select from the tasks and edit the due date, who it’s assigned to or mark it as complete.
+
 # Credits
 Joshua Carney (CarneyCreations)
