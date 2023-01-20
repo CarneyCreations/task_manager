@@ -1,0 +1,7 @@
+ac, 1 This, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 29 Dec 2022, Yes
+admin, 2 Should, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 08 Aug 2023, No
+ac, 3 All, I clearly did not add the return to menu check, 19 Dec 2022, 19 Dec 2022, Yes
+dave, 4 Be, I clearly did not add the return to menu check, 19 Dec 2022, 2 jan 2023, No
+dave, 5 Different, Observe workforce and assist where necessary, 19 Dec 2022, 25 Dec 2022, Yes
+dave, Clean the house, Clean up!, 27 Dec 2022, 26 Dec 2022, No
+ac, Binboo, Oblong, 03 Jan 2023, 11 Jul 2023, No
